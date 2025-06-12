@@ -1,0 +1,14 @@
+{
+  "name": "ASP.NET Core Dev",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:8.0",
+  "features": {},
+  "forwardPorts": [5000, 5001],
+  "postCreateCommand": "dotnet restore",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}
