@@ -1,0 +1,65 @@
+﻿@model List<ReaderDiary.Models.Book>
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Books List";
+    var isAdmin = User.IsInRole("Admin");
+}
+
+<h1>Books List</h1>
+
+@if (isAdmin)
+{
+    <!-- Tlačítko pro přidání nové knihy -->
+    <a asp-controller="Books" asp-action="Create" class="btn btn-primary" style="font-weight: bold; font-size: 18px; padding: 8px 16px;">
+        <span style="font-size: 22px; margin-right: 10px;">+</span> Add New Book
+    </a>
+}
+
+<!-- Kontejner pro tabulku -->
+<div class="card mt-3">
+    <div class="card-body">
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Author</th>
+                    <th>Published</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>@book.Id</td>
+                        <td>@book.Title</td>
+                        <td>@book.Author</td>
+                        <td>@book.PublishedDate.ToShortDateString()</td>
+                        <td>@book.Description</td>
+                        <td>
+                            <!-- Detaily vidí všichni -->
+                            <a asp-action="Details" asp-route-id="@book.Id" class="btn btn-info btn-sm">🔍 Details</a>
+
+                            @if (isAdmin)
+                            {
+                                <!-- Editace jen pro Admin -->
+                                <a asp-action="Edit" asp-route-id="@book.Id" class="btn btn-warning btn-sm">✏ Edit</a>
+
+                                <!-- Smazání jen pro Admin -->
+                                <form asp-action="Delete" asp-route-id="@book.Id" method="get" class="d-inline">
+                                    <button type="submit" class="btn btn-danger btn-sm">🗑 Delete</button>
+                                </form>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

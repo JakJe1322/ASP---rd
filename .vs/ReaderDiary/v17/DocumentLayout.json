@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\identity\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\identity\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\identity\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\identity\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|c:\\users\\jezj\\desktop\\wep\\readerdiary\\readerdiary\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B442A989-08CF-4DD2-B2ED-75655C16D7CE}|ReaderDiary\\ReaderDiary.csproj|solutionrelative:readerdiary\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ReaderDiary\\Views\\Books\\Delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T08:15:56.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ReaderDiary\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:14:34.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ReaderDiary\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:14:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ReaderDiary\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:12:57.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\User.cs",
+              "RelativeToolTip": "ReaderDiary\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:11:26.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ReaderDiary\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:10:05.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReaderDiary\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:09:44.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:08:24.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Program.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Program.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Program.cs",
+              "RelativeToolTip": "ReaderDiary\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:23:33.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:23:05.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:22:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Identity\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Identity\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Identity\\Account\\Register.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Identity\\Account\\Register.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:05:49.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Identity\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Identity\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Identity\\Account\\Login.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Identity\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T09:06:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T08:16:36.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ReaderDiary\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ReaderDiary\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAMwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-06T08:10:42.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:22:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:22:04.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:23:07.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:22:28.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ReaderDiary\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ReaderDiary\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-06T08:10:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Delete.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Delete.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Delete.cs",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Delete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:21:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\Book.cs",
+              "RelativeToolTip": "ReaderDiary\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:21:41.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:22:20.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ReaderDiary\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ReaderDiary\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:21:55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ReaderDiary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\jezj\\Desktop\\wep\\ReaderDiary\\ReaderDiary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ReaderDiary\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T08:10:27.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

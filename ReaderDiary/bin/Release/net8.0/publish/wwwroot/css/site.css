@@ -1,0 +1,123 @@
+/* Základní styl pro tlaèítko */
+.dark-mode-btn {
+    background-color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    position: relative;
+    transition: background-color 0.3s, transform 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    /* Efekt pøi najetí na tlaèítko */
+    .dark-mode-btn:hover {
+        background-color: #f0f0f0;
+    }
+
+/* Mìsícová ikona */
+.moon-icon {
+    display: inline-block;
+    position: relative;
+}
+
+/* Èerné koleèko se objeví pouze po najetí na tlaèítko */
+.dark-mode-btn:hover .moon-icon::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    animation: pulse 0.5s ease-out;
+}
+
+/* Animace pro vykreslení èerného koleèka */
+@keyframes pulse {
+    0% {
+        width: 10px;
+        height: 10px;
+    }
+
+    100% {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+/* Tmavý režim pro celé tìlo */
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+    /* Tmavý režim pro .header */
+    body.dark-mode .header {
+        background-color: #121212 !important; /* Tmavé pozadí */
+    }
+
+        /* Tmavý režim pro hlavièku nav */
+        body.dark-mode .header nav.navbar {
+            background-color: #333 !important; /* Tmavé pozadí pro navigaci */
+        }
+
+            /* Tmavý režim pro odkazy v hlavièce */
+            body.dark-mode .header nav.navbar .navbar-brand,
+            body.dark-mode .header nav.navbar .nav-link {
+                color: white !important; /* Bílé odkazy */
+            }
+
+                body.dark-mode .header nav.navbar .nav-link:hover {
+                    color: #258cfb !important; /* Barva odkazu pøi hover */
+                }
+
+    /* Tmavý režim pro patièku */
+body.dark-mode footer {
+    background-color: #222; /* Tmavé pozadí patièky */
+}
+
+    /* Tmavý režim pro hlavièku pøi hover */
+    body.dark-mode header nav.navbar .nav-link:hover {
+        color: #258cfb; /* Barva odkazu pøi hover */
+    }
+
+/* Pøednastavený styl pro tìlo */
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+    /* Tmavý režim pro hlavièku, tlaèítko pro zmìnu režimu */
+    body.dark-mode #darkModeToggle {
+        background-color: black;
+        color: white;
+    }
+
+    /* Tmavý režim pro tabulky */
+    body.dark-mode table {
+        background-color: #2e2e2e; /* Tmavé pozadí tabulky */
+        color: white; /* Svìtlý text v tabulce */
+    }
+
+        body.dark-mode table th,
+        body.dark-mode table td {
+            border-color: #444; /* Ztmavené okraje bunìk */
+        }
+
+        body.dark-mode table th {
+            background-color: #333; /* Tmavé pozadí pro záhlaví tabulky */
+        }
+
+        body.dark-mode table td {
+            background-color: #2e2e2e; /* Tmavé pozadí pro buòky */
+        }
+    /* Tmavý režim pro kartu */
+    body.dark-mode .card {
+        background-color: #2a2a2a; /* tmavé pozadí karty */
+        border-radius: 2px;
+        color: white; /* bílý text */
+    }

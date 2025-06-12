@@ -1,0 +1,60 @@
+﻿@model ReaderDiary.Models.Book
+
+@{
+    ViewData["Title"] = "Add a New Book";
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-info text-white text-center">
+                    <h2>📚 Add a New Book</h2>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Create">
+                        <div class="mb-3">
+                            <label asp-for="Title" class="form-label">Title</label>
+                            <input asp-for="Title" class="form-control" placeholder="Enter the title of the book" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Author" class="form-label">Author</label>
+                            <input asp-for="Author" class="form-control" placeholder="Enter author's name" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="PublishedDate" class="form-label">Published Date</label>
+                            <input asp-for="PublishedDate" type="date" class="form-control" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label">Description</label>
+                            <textarea asp-for="Description" class="form-control" rows="5" placeholder="Provide a brief description of the book"></textarea>
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <a asp-action="Index" class="btn btn-secondary">⬅ Back to List</a>
+                            <button type="submit" class="btn btn-success fw-bold">💾 Save Book</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="card-footer text-muted text-center">
+                    &copy; 2025 Reader Diary | Made with ❤️ in ASP.NET
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- TinyMCE for Description -->
+<script src="https://cdn.tiny.cloud/1/vaš-api-klíč/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+<script>
+    tinymce.init({
+        selector: 'textarea',
+        menubar: false,
+        plugins: 'lists link image preview',
+        toolbar: 'bold italic underline | bullist numlist | link image | removeformat',
+        height: 300
+    });
+</script>
